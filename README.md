@@ -1,13 +1,11 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Anas Qureshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate Fullstack developer</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://dikshaweb.com/Custom-Web-Development.html"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas9764&label=Profile%20views&color=0e75b6&style=flat" alt="anas9764" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web Based Project**
 
