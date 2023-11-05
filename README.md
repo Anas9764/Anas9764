@@ -1,5 +1,6 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-# Hey  Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anas Qureshi](https://www.linkedin.com/in/qureshi-anas/)!
+<h1 align="center">Hi 👋, I'm Anas Qureshi</h1>
+<!-- # Hey  Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anas Qureshi](https://www.linkedin.com/in/qureshi-anas/)! -->
 <!-- <h3 align="center">A passionate Fullstack developer</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://dikshaweb.com/Custom-Web-Development.html"> -->
 
